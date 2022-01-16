@@ -1,0 +1,45 @@
+h1 {
+    font-size: 1cm;
+}
+
+h2 {
+    font-size: 0.5cm;
+}
+
+img {
+    width: 300px;
+    max-width: 100%;
+}
+
+.image{
+    flex-basis: 40%;
+}
+
+#personalBackground {
+    padding-left: 20px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #experience {
+    margin-left: 5.5cm;
+    float: left;
+  }
+
+  #programmingLanguages {
+    margin-left: 25cm;
+    
+  }
+
+  #achievements {
+    margin-left: 5.5cm;
+    float: left;
+  }
+
+  #games {
+    margin-left: 25cm;
+  }
